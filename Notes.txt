@@ -1,0 +1,12 @@
+
+    Notes:
+    ------
+    CSS Classes:
+        Class "w-75" - Means container is set to "width: 75%"
+        Class "d-none" - Means container is set to "display: none"
+        Class "pt-2" - Means set to "padding-top: 2"
+        Class "pl-2" - Means set to "padding-left: 2"
+        Class "height: 100vh;" - Means the height of this element is equal to 100% of the viewport height.
+
+        
+    
