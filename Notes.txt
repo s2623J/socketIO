@@ -8,5 +8,7 @@
         Class "pl-2" - Means set to "padding-left: 2"
         Class "height: 100vh;" - Means the height of this element is equal to 100% of the viewport height.
 
+    Executing Program:
+        Navigate to action page first, press "New Meeting"
+        On index page, use ID as auto-generated in URL param    
         
-    
